@@ -1,1 +1,1 @@
-# practical-machine-learningprediction-assignment
+# practical-machine-learning-prediction-assignment
